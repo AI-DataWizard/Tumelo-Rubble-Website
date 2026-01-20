@@ -1,11 +1,11 @@
 /*Common Elements*/
 @font-face {
   font-family: font;
-  src: url("/fonts/Poppins/Poppins-Bold.ttf");
+  src: url("../fonts/Poppins/Poppins-Bold.ttf");
 }
 @font-face {
   font-family: hfont;
-  src: url("/fonts/Lilita_One/LilitaOne-Regular.ttf");
+  src: url("../fonts/Lilita_One/LilitaOne-Regular.ttf");
 }
 * {
   padding: 0;
